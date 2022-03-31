@@ -6,7 +6,7 @@ Select All -> Export XML -> export to data/default_maps
 
 After that close CodeWalker, make a folder called "A" (just because it shows at the top) and put the folder(s) that have your map into this folder
 
-After all of that reopen CodeWalker RPF Explorer, search for .ytyp and Select the .ytyp that have the "A" path and export them to "maps"
+After all of that reopen CodeWalker RPF Explorer, search for .ytyp and Select the .ytyp that have the "A" path and export them to "data/maps"
 
 After that run "archetypechecker.exe" or do "cargo run" if you have rust installed
 
